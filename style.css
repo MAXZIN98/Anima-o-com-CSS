@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2? family= Atkinson+Hyperlegible & display=swap');
-
 body {
     display: flex;
     justify-content: center;
@@ -29,5 +28,5 @@ h1 {
         transform: translateY(-800px);
         color: #6e55fd;
     }
-    
+  
 }
